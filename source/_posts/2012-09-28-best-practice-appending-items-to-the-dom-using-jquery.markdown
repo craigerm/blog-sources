@@ -4,7 +4,6 @@ date: 2012-09-28 17:55:54
 layout: post
 slug: best-practice-appending-items-to-the-dom-using-jquery
 title: 'Best Practice: Appending items to the DOM using jQuery'
-wordpress_id: 117
 categories:
 - jquery
 tags:

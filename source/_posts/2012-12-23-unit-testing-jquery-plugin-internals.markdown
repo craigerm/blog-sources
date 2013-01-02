@@ -4,9 +4,8 @@ date: 2012-12-23 14:11:22
 layout: post
 slug: unit-testing-jquery-plugin-internals
 title: Unit Testing jQuery Plugin Internals
-wordpress_id: 161
 categories:
-- jquery
+ - jquery
 tags:
 - javascript
 - jquery

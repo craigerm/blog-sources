@@ -4,7 +4,6 @@ date: 2012-04-24 23:50:51
 layout: post
 slug: dark-octo-themes-chrome-extension-for-themed-github-repositories
 title: 'Dark Octo Themes: Chrome extension for themed  github repositories'
-wordpress_id: 83
 categories:
 - github
 tags:

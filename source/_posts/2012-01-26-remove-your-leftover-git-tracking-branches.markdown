@@ -4,7 +4,6 @@ date: 2012-01-26 01:25:59
 layout: post
 slug: remove-your-leftover-git-tracking-branches
 title: 'Remove your leftover git tracking branches '
-wordpress_id: 4
 categories:
 - git
 tags:
@@ -12,7 +11,6 @@ tags:
 ---
 
 Today I was helping out a co-worker with a git problem and when I looked at the branches in his repository (using "git status -a") I didn't see what I expected.  There were dozens and dozens of remote tracking branches in his repository that shouldn't have been there. All the branches that the team had developed in the last year still existed locally (as tracking branches) even though they had been deleted remotely by another developer. So I showed him the following git command:
-
 
 ```
 git remote prune origin

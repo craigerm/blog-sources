@@ -4,7 +4,6 @@ date: 2012-01-30 00:59:10
 layout: post
 slug: how-to-achieve-rails-like-resources-in-node-js-express
 title: How to achieve rails like resources in node.js express
-wordpress_id: 49
 categories:
 - nodejs
 tags:
