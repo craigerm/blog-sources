@@ -1,0 +1,1 @@
+/home/craig/code/email-obfuscate-octopress/email.rb
