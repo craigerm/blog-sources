@@ -86,8 +86,10 @@ article {
   }
 }
 
-footer span {
-  text-shadow: none;
+footer {
+  p, span {
+    text-shadow: none;
+  }
 }
 
 a {
