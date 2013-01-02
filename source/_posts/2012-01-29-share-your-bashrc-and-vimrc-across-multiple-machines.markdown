@@ -4,7 +4,6 @@ date: 2012-01-29 20:32:40
 layout: post
 slug: share-your-bashrc-and-vimrc-across-multiple-machines
 title: Share your .bashrc and .vimrc across multiple machines
-wordpress_id: 21
 categories:
 - linux
 - vim
