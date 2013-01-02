@@ -4,7 +4,6 @@ title: "Creating Javascript Objects: new vs {}"
 date: 2013-01-02 08:15
 comments: true
 categories: [javascript]
-published: false
 ---
 
 Recently I had a discussion with someone about creating javascript objects.

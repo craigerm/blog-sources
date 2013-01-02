@@ -4,6 +4,7 @@ title: "Creating Javascript Arrays: new vs []"
 date: 2013-01-02 08:52
 comments: true
 categories: [javascript]
+published: false
 ---
 
 My last [post](/blog/2013/01/02/creating-javascript-objects/) quickly compared the performance
