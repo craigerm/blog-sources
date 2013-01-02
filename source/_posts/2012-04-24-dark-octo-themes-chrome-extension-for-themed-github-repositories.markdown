@@ -20,7 +20,7 @@ And if you're like me you wish that you could change the source code theme on gi
 
 Introducing a little Chrome extension I created called [Dark Octo Themes](https://chrome.google.com/webstore/detail/iahjlgmjhgemeebaflejbgfpojahcnng?hl=en-GB). This extension has one purpose: to show the source code in a modified theme while on github.
 
-![](images/posts/darkoctotheme.png)
+{% img /images/posts/darkoctotheme.png %}
 
 ## Installation
 

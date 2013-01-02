@@ -94,6 +94,6 @@ Woah! That's a huge improvement! Granted some of that improvement is because we 
 
 So there you have it! As a general rule when performing lots of appends to an item it is usually a good idea to not manipulate the DOM directly. And if you want to increase the performance and responsiveness out of you web app  when doing DOM manipulation try using the array string buffer technique.
 
-[![](images/posts/append-benchmark.png)](images/posts/append-benchmark.png)
+{% img /images/posts/append-benchmark.png %}
 
 If you have a faster way of doing this, please share! :)
