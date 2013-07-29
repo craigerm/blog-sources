@@ -3,7 +3,7 @@ layout: post
 title: "A Handlebars JSON helper"
 date: 2013-07-29 12:17
 comments: true
-categories: 
+categories: backbone handlebars
 ---
 
 I've been working with Backbone pretty heavily over the last year with 
