@@ -49,6 +49,6 @@ good idea) - and I'm sure other frameworks have it or
 something similar.
 
 Anyway, I hope this helps someone starting out a new backbone/handlebars
-project!
+project or even for debugging an existing one!
 
 
