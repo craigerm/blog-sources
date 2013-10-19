@@ -9,6 +9,7 @@ $(function() {
   };
 
   $('#cf button').click(function() {
+
     var f = $('#cf');
     var inputs = f.find('input,textarea');
     f.find('.error').hide();
@@ -20,7 +21,6 @@ $(function() {
       var self = $(this);
       var value = $.trim(self.val());
       if(value == '') {
-        console.log('SETTING TO FALSE!');
         self.siblings('.error').show();
         valid = false;
       }
@@ -39,10 +39,16 @@ $(function() {
           data: data
         });
       } catch(e) {
-        console.log(e);
       }
       f.hide();
       $('#cfFin').fadeIn();
     }
   });
 });
+
+window.setTimeout(function(){
+  $('#mainInfo')
+    .css({opacity: 0.0, visibility: 'visible'})
+    .animate({opacity: 1.0}, 400);
+},300);
+
