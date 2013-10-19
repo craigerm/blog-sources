@@ -30,3 +30,7 @@
 {% else %}
   {{ content }}
 {% endif %}
+
+{% unless index %}
+  {% include post/sharing.html %}
+{% endunless %}

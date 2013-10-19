@@ -10,8 +10,6 @@ simple_search: http://google.com/search
 description: A blog about anything development related from node to jquery to mongo.
 
 page.title: 'all things craig'
-site.email: 'craigerm@gmail.com'
-
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -22,8 +20,9 @@ date_format: "ordinal"
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: http://feeds.feedburner.com/AllThingsCraig 
 subscribe_email: 
+
 # RSS feeds can list your email address if you like
-email: "craigerm@gmail.com"
+#email: "craig@allthingscraig.com"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,6 +63,14 @@ default_asides: [custom/asides/gravatar.html, custom/asides/aboutme.html, asides
 # Gravatar settings
 gravatar_email: 'craigerm@gmail.com'
 
+email: 'craigerm@gmail.com'
+
+sharing_enabled: false # We'll keep this off for now!
+
+facebook_like: true
+twitter_tweet_button: true
+google_plus_one: true
+
 # Social side bar
 social:
   github: 'craigerm'
@@ -71,44 +78,9 @@ social:
   stackoverflow: 64897 
   twitter: 'thinkvita'
 
-
-# Github repositories
-github_user: 
-github_repo_count: 1
-github_show_profile_link: true
-github_skip_forks: true
-
-# Twitter
-twitter_user: thinkvita 
-twitter_tweet_count: 4
-twitter_show_replies: false
-twitter_follow_button: true
-twitter_show_follower_count: false
-twitter_tweet_button: true
-
-# Google +1
-google_plus_one: true 
-google_plus_one_size: medium
-
-# Google Plus Profile
-# Hidden: No visible button, just add author information to search results
-googleplus_user:
-googleplus_hidden: false
-
-# Pinboard
-pinboard_user:
-pinboard_count: 3
-
-# Delicious
-delicious_user:
-delicious_count: 3
-
 # Disqus Comments
 disqus_short_name: allthingscraig
 disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-37347861-1
-
-# Facebook Like
-facebook_like: true
