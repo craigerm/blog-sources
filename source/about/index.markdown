@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "about"
+title: "About myself"
 date: 2013-10-19 02:19
 comments: true
 sharing: true
@@ -20,3 +20,9 @@ footer: true
   Want to chat more? Visit my [contact](http://contact.com) page for more info.
 </p>
 
+<hr>
+<section>
+  <h2 class="indent">About this site and blog</h2>
+  This site is powered by [Octopress](http://octopress.org), [GitHub pages](http://github.com), and caffeine.
+  The theme is called Oscailte and was created by [Stephen Coogan](https://github.com/coogie/oscailte).
+</section>
