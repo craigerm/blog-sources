@@ -8,6 +8,8 @@ subtitle: developer thoughts out loud...
 author: Craig MacGregor
 simple_search: http://google.com/search
 description: A blog about anything development related from node to jquery to mongo.
+site.email: 'craigerm@gmail.com'
+
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +21,7 @@ date_format: "ordinal"
 subscribe_rss: http://feeds.feedburner.com/AllThingsCraig 
 subscribe_email: 
 # RSS feeds can list your email address if you like
-email:
+email: "craigerm@gmail.com"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -59,6 +61,14 @@ default_asides: [custom/asides/gravatar.html, custom/asides/aboutme.html, asides
 
 # Gravatar settings
 gravatar_email: 'craigerm@gmail.com'
+
+# Social side bar
+social:
+  github: 'craigerm'
+  googleplus: 114324938350379150582
+  stackoverflow: 64897 
+  twitter: 'thinkvita'
+
 
 # Github repositories
 github_user: 
