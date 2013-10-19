@@ -30,6 +30,8 @@ $(function() {
 
     if(valid) {
 
+      _gaq.push(['_trackEvent', 'Forms', 'Contact']);
+
       try{
         $.ajax({
           url: url,
@@ -38,7 +40,9 @@ $(function() {
           crossDomain: true,
           data: data
         });
+
       } catch(e) {
+        _gaq.push(['_trackEvent', 'Forms', 'Contact Error', e.message]);
       }
       f.hide();
       $('#cfFin').fadeIn();
