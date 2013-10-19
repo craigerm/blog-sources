@@ -8,6 +8,8 @@ subtitle: developer thoughts out loud...
 author: Craig MacGregor
 simple_search: http://google.com/search
 description: A blog about anything development related from node to jquery to mongo.
+
+page.title: 'all things craig'
 site.email: 'craigerm@gmail.com'
 
 
