@@ -7,12 +7,7 @@ sharing: true
 footer: true
 ---
 
-<p class="lead">
-Hey there! My name is Craig MacGregor and I'm a full-stack web developer from Toronto, Canada.
-</p>
+You can reach me by email at {% email craig@allthingscraig.com %} or by using the contact form below.
 
-<p>
-
-</p>
-
+{% include contact/form.html %}
 
