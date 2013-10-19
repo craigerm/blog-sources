@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "contact"
+title: "Contact"
 date: 2013-10-19 02:19
 comments: true
 sharing: true
