@@ -7,3 +7,38 @@
 .tech-highlights {
   color: #049CDB;
 }
+
+#cfFin {
+  display: none;
+}
+
+#cf {
+  .input-row {
+    padding-bottom: 10px;
+    .error {
+      display:none;
+      color: #f00;
+      font-size: 81%;
+    }
+    input {
+      padding: 5px;
+      width: 450px;
+    }
+    textarea {
+      width: 450px;
+      padding: 5px;
+      font: inherit;
+    }
+    input, textarea {
+      display: block;
+      border: solid 1px #ccc;
+      font: inherit;
+    }
+    button {
+      padding: 10px 10px;
+      width: auto;
+    }
+  }
+}
+
+
