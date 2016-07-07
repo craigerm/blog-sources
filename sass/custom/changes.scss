@@ -1,3 +1,10 @@
+$secondaryColor: #ff3100;
+$secondaryColor: #a62000;
+$secondaryColor: #bf4b30;
+//$secondaryColor: #ffb700;
+//$secondaryColor: #ff6440;
+//$secondaryColor: #ff8e73;
+
 .primary-lead {
   padding: 10px 10px;
   background-color: #222;
@@ -6,7 +13,15 @@
 
 .tech-highlights {
   color: #049CDB;
+  color: $secondaryColor;
 }
+
+.usp .icon i {
+  color: $secondaryColor;
+  border: 10px solid $secondaryColor;
+  background-color: #eee;
+}
+
 
 #cfFin {
   display: none;
