@@ -74,8 +74,7 @@ google_plus_one: true
 # Social side bar
 social:
   github: 'craigerm'
-  googleplus: 114324938350379150582
-  stackoverflow: 64897 
+  stackoverflow: 64897
   twitter: 'craig_atc'
 
 # Disqus Comments
