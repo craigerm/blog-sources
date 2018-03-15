@@ -12,19 +12,16 @@ footer: true
 
 <p>
   I love creating complete solutions and have a passion for learning new technology. 
-  By using my 7+ years of experience I can implement a solution from idea to deployment
+  By using my 10+ years of experience I can implement a solution from idea to deployment
   using the best tools available to help my clients achieve their business goals. 
 </p>
 
 <p class="tech-info">
   Some of the technologies I'm currently interested in are:<br/>
-  <span>ruby/rails</span>,
-  <span>node</span>,
-  <span>angular</span>,
-  <span>socket.io</span>,
-  <span>backbone</span>,
-  <span>mongodb</span>,
-  <span>twitter bootstrap</span>
+  <span>ruby on rails</span>,
+  <span>react+redux</span>,
+  <span>elixir+phoenix</span>,
+  <span>elm</span>
 </p>
 
 <p>
