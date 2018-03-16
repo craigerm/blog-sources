@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://allthingscraig.com
+url: https://allthingscraig.com
 title: all things craig 
 subtitle: developer thoughts out loud...
 author: Craig MacGregor
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 description: A blog about anything development related from node to jquery to mongo.
 
 page.title: 'all things craig'
@@ -18,7 +18,7 @@ page.title: 'all things craig'
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/AllThingsCraig 
+subscribe_rss: https://feeds.feedburner.com/AllThingsCraig
 subscribe_email: 
 
 # RSS feeds can list your email address if you like
